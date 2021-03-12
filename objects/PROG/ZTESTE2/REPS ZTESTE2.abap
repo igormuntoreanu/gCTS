@@ -5,4 +5,5 @@
 *&---------------------------------------------------------------------*
 REPORT ZTESTE2.
 
-WRITE: 'Hello World'.
+
+WRITE: 'Work of March 2'.
