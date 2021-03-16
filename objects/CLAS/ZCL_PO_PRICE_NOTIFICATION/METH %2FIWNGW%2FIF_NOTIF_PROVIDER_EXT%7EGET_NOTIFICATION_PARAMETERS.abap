@@ -1,0 +1,11 @@
+  method /IWNGW/IF_NOTIF_PROVIDER_EXT~GET_NOTIFICATION_PARAMETERS.
+**TRY.
+*CALL METHOD SUPER->/IWNGW/IF_NOTIF_PROVIDER_EXT~GET_NOTIFICATION_PARAMETERS
+*  EXPORTING
+*    IT_NOTIF     =
+**  IMPORTING
+**    et_parameter =
+*    .
+**  CATCH /iwngw/cx_notif_provider.
+**ENDTRY.
+  endmethod.
