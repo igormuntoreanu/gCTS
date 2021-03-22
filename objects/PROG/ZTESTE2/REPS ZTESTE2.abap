@@ -5,5 +5,7 @@
 *&---------------------------------------------------------------------*
 REPORT ZTESTE2.
 
-
-WRITE: 'Work of March 18.03.2021'.
+##NO_TEXT
+WRITE: 'Work of March 22.03.2021'.
+##NO_TEXT
+WRITE: 'Work of March 11:26'.
