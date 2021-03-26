@@ -6,4 +6,4 @@
 REPORT zjsc_gcts.
 
 START-OF-SELECTION.
-  WRITE: / 'gCTS Playground123'.
+  WRITE: / 'gCTS Playground1234'.
